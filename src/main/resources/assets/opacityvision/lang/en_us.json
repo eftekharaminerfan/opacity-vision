@@ -1,0 +1,9 @@
+{
+	"key.category.opacityvision.main": "Opacity Vision",
+	"key.opacityvision.toggle": "Toggle Opacity Vision",
+	"key.opacityvision.more": "Increase Block Opacity",
+	"key.opacityvision.less": "Decrease Block Opacity",
+	"key.opacityvision.outline": "Toggle Outlines",
+	"key.opacityvision.mark": "Add/Remove Looked-At Block from Highlights",
+	"key.opacityvision.screen": "Open Opacity Vision Settings"
+}

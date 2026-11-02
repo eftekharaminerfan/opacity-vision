@@ -1,0 +1,19 @@
+{
+	"schemaVersion": 1,
+	"id": "opacityvision",
+	"version": "${version}",
+	"name": "Opacity Vision",
+	"description": "X-ray-style vision with adjustable block opacity and optional outlines on highlighted blocks.",
+	"authors": ["You"],
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["dev.opacityvision.OpacityVisionClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.1",
+		"minecraft": "~26.1",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
